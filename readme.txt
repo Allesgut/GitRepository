@@ -1,2 +1,2 @@
-Git is good.
-Git v1.
+Git is a distributor system.
+Git v2
